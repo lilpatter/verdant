@@ -6,6 +6,8 @@ Your GeForce driver, always current. A small native Windows app by PG.
 
 More at [lilpatter.github.io/verdant](https://lilpatter.github.io/verdant/).
 
+<p align="center"><img src="screenshots/home.jpg" width="100%" alt="Home with the latest Game Ready driver, 621.14, installed and up to date." /></p>
+
 ## What it does
 
 - Detects your GPU and installed driver, and whether you're on a desktop or laptop.
@@ -17,6 +19,13 @@ More at [lilpatter.github.io/verdant](https://lilpatter.github.io/verdant/).
 - Live GPU temperature, load, VRAM, power, clock and fan.
 - Steam artwork for the games each driver targets.
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/gameready.jpg" width="49%" alt="Every Game Ready driver for a GeForce RTX 2060, with the installed one marked and roll back for the rest." />
+  <img src="screenshots/gpu.jpg" width="49%" alt="My GPU: live temperature, load, video memory, power, clock and fan speed, with driver and hardware details." />
+</p>
+
 ## Requirements
 
 Windows 10 or 11 with an NVIDIA GeForce graphics card and the WebView2 runtime, which ships with Windows 11.
@@ -27,7 +36,7 @@ Verdant updates itself from this page's releases and checks each download agains
 
 ## Credits
 
-Driver data from NVIDIA's driver download service. Game artwork from the Steam store.
+Made by [PG](https://lilpatter.github.io).
 
 Not affiliated with NVIDIA. GeForce, Game Ready and Studio are trademarks of NVIDIA Corporation.
 
