@@ -1,6 +1,6 @@
 # Verdant
 
-Your GeForce driver, always current. A small native Windows app by PG.
+Your GeForce driver, always current. A small native app for Windows 10 and 11, by PG.
 
 **[Download the latest release](https://github.com/lilpatter/verdant/releases/latest)**: `Verdant_<version>_x64-setup.exe` installs it, `verdant.exe` runs without installing.
 
@@ -29,6 +29,8 @@ More at [lilpatter.github.io/verdant](https://lilpatter.github.io/verdant/).
 ## Requirements
 
 Windows 10 or 11 with an NVIDIA GeForce graphics card and the WebView2 runtime, which ships with Windows 11.
+
+Verdant is a Windows app. There's no Mac version yet: the Mac-style sidebar and window buttons are just part of its design.
 
 ## Updates
 
