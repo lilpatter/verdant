@@ -14,9 +14,12 @@ More at [lilpatter.github.io/verdant](https://lilpatter.github.io/verdant/).
 - Matches your exact card with NVIDIA's catalog and finds the latest **Game Ready** and **Studio** drivers.
 - Downloads installers to `Downloads\NVIDIA Drivers` with pause, resume and cancel.
 - Only runs installers signed by *NVIDIA Corporation*.
+- Never installs the NVIDIA App. Verdant unpacks the driver package itself and leaves the NVIDIA App out, and removes it if NVIDIA's installer adds it anyway.
 - Installs with one prompt: **Express** (silent, optional clean install) or **Custom** (NVIDIA's own installer), then confirms the new driver is active.
-- Release history for both channels, with roll back and release notes.
+- Release history for both channels, with roll back and release notes, and search across every release's notes.
 - Live GPU temperature, load, VRAM, power, clock and fan.
+- **Compact mode**: a small window that checks for and installs driver updates (Settings › Window).
+- Pick your graphics card by hand if detection gets the model wrong.
 - Steam artwork for the games each driver targets.
 
 ## Screenshots
